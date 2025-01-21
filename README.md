@@ -21,7 +21,7 @@ This project is a simple password manager based on Python. It allows you to stor
 
 1. Clone this repository:
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/Wences1024/password_manager.git
    ```
 2. Navigate to the project directory:
    ```bash
